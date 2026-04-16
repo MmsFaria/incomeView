@@ -12,7 +12,6 @@
 >    - arquitetura de dados
 >    - automação financeira
 >    - governança corporativa  
->- **dossieOlimpoParticipacoes.md**  
 
 
 <br>
